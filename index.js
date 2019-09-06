@@ -7,11 +7,8 @@ const bodyParser = require("koa-bodyparser"); //对传入的请求体进行解�
 
 app.use(bodyParser());
 
-
-
-
 //引入路由
-let user = require("./API/UserAPI.js");
+let user = require("./api/UserAPI.js");
 
 //装载所有子路由
 let router = new Router();

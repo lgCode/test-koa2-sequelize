@@ -1,3 +1,4 @@
+/* 扫描所有的model模型 */
 const fs = require("fs");
 
 let files = fs.readdirSync(__dirname + '/models'); //同步遍历目录
