@@ -1,3 +1,5 @@
 # test-koa2-sequelize
 
-Á·Ï° koa2 + sequelize´î½¨ºóÌ¨£¬½á¹¹Ä£¿é»¯£»
+ç»ƒä¹  koa2 + sequelizeæ­å»ºåå°ï¼Œç»“æ„æ¨¡å—åŒ–ï¼›
+
+https://blog.csdn.net/where_slr/article/details/100580730
